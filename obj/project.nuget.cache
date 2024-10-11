@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMp3AKpwXdA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mastadon\\ShareLord\\Sharelord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mastadon\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\mastadon\\.nuget\\packages\\system.security.accesscontrol\\6.0.1\\system.security.accesscontrol.6.0.1.nupkg.sha512",
+    "C:\\Users\\mastadon\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

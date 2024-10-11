@@ -1,0 +1,5 @@
+C:\Users\mastadon\ShareLord\bin\Release\net4.8\publish\Sharelord.exe
+C:\Users\mastadon\ShareLord\bin\Release\net4.8\publish\Sharelord.exe.config
+C:\Users\mastadon\ShareLord\bin\Release\net4.8\publish\System.IO.FileSystem.AccessControl.dll
+C:\Users\mastadon\ShareLord\bin\Release\net4.8\publish\System.Security.AccessControl.dll
+C:\Users\mastadon\ShareLord\bin\Release\net4.8\publish\System.Security.Principal.Windows.dll
