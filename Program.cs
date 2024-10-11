@@ -6,7 +6,7 @@ using System.IO;
 
 class Program
 {
-    // D/Invoke declarations
+    // P/Invoke declarations
     [DllImport("Netapi32.dll", CharSet = CharSet.Unicode)]
     static extern int NetShareAdd(string servername, int level, ref SHARE_INFO_2 buf, out int parm_err);
 
