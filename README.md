@@ -1,7 +1,7 @@
 # Sharelord (lowercase l)
 ![](https://github.com/NocteDefensor/ShareLord/blob/main/starlord-dance.gif)
 
-.NET Assembly to interact with Win32 APIs to create network shares, set ACE entries and share perms, and delete network shares. Currently using PInvoke. I hope to switch to DInvoke soon when I figure out an memory access violation i'm running into. Help with DInvoke would be greatly appreciated.
+.NET Assembly to learn how to interact with Win32 APIs to create network shares, delete shares, and set share perms. It uses .NET methods to set ACE. Will eventually switch all to use Win32 APIs. Currently using PInvoke. I hope to switch to DInvoke soon when I figure out an memory access violation i'm running into. Help with DInvoke would be greatly appreciated.
 ---
 Sharelord is a command-line tool for managing Windows shared folders and their permissions.
 
