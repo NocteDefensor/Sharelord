@@ -96,3 +96,7 @@ For more detailed information about the project structure and configuration, ref
 - https://github.com/TheWover/DInvoke
 - https://github.com/rasta-mouse/DInvoke
 - https://www.pinvoke.net/default.aspx/netapi32/_ContentBaseDefinition.html
+- https://learn.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netshareadd
+- https://learn.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netsharedel
+- https://learn.microsoft.com/en-us/windows/win32/api/lmshare/ns-lmshare-share_info_2
+- https://learn.microsoft.com/en-us/windows/win32/api/lmshare/ns-lmshare-share_info_502
